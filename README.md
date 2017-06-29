@@ -2,7 +2,7 @@
 
 This project display sample maven modules structure.
 
-You code execute it with
+You could execute it with
 `mvn clean install` from the root folder
 
     [INFO] Reactor Summary:
